@@ -1,5 +1,5 @@
 [simplegroup]
-winapp
+vm1
 
 [simplegroup:vars]
 ansible_connection=winrm 
